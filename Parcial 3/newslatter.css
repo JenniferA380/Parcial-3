@@ -1,0 +1,19 @@
+.cuadro
+{
+    background-color: #ADD8E6;
+  position : absolute ;
+  left : 260px;
+  top : 150px;
+  width : 800px;
+  height : 300px;}
+  .cuadro2
+{
+   background-color: #ADD8E6;
+  
+  position : absolute ;
+  left : 550px;
+  top : 5px;
+  width : 500px;
+  height : 40px;
+
+}

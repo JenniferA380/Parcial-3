@@ -1,0 +1,60 @@
+/* estilo.css */
+.cuadro
+{
+  background : #83CDBE;
+  border-style : Solid;
+  border-width : 1px;
+  position : absolute ;
+  left : 250px;
+  top : 90px;
+  width : 850px;
+  height : 670px;}
+
+.cuadro2
+{
+  
+  
+  position : absolute ;
+  left : 170px;
+  top : 17px;
+  width : 500px;
+  height : 40px;
+
+}
+.cuadro3
+{
+   background-color: #ADD8E6;
+   font-size : 36px;
+  position : absolute ;
+  left : 550px;
+  top : 5px;
+  width : 500px;
+  height : 40px;
+
+}
+h1
+{
+  font-family : Myriad Pro;
+  font-size : 36px;
+  color : #1D1D1B;
+  color : rgb(29, 29, 27);
+ 
+}
+
+
+/* centramos el titulo h2 */
+h2 {
+    text-align: center;
+    top:-5px;
+    position: relative;
+    font-size : 30px;
+    color: aliceblue;
+  }
+  table.table.table-striped.table-hover
+  {
+  position : absolute ;
+  left : -100px;
+  top : 750px;
+  width : 96px;
+  height : 28px;
+}
